@@ -41,3 +41,7 @@
     cd ${FAST_DETECTION_ROOT}/sample
     ./xxx.py
 ```
+
+## 内容介绍
+
+### 1. 实现mobilenet
