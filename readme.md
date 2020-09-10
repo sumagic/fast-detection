@@ -5,7 +5,7 @@
 * 使用pytorch(1.5.1)实现通用的网络编写和训练/推理
 * 使用tensorflow(2.2.0), keras(2.3.0-tf)实现通用的网络编写和训练/推理
 
-### 1. mobilenet的实现
+### 1. mobilenet
 
 ## 使用方法
 
@@ -43,3 +43,6 @@
     cd ${FAST_DETECTION_ROOT}/sample
     ./xxx.py
 ```
+6.论文连接
+* [mobilenetv1](http://xxx.itp.ac.cn/pdf/1704.04861)
+* 

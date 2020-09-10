@@ -1,0 +1,2 @@
+export PROJECT_ROOT=${PWD}
+export PYTHONPATH=${PROJECT_ROOT}/python:${PYTHONPATH}
